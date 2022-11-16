@@ -1,5 +1,6 @@
 # ECOM20001-A1A2A3
 ## Assignment 1, 2 and 3 of ECOM20001 Econometrics 1 at University of Melbourne
+**Co-authors: Lang (Ron) Chen and Yixin (Chelsea) Wu**
 
 Created: Semester 2 2022
 
